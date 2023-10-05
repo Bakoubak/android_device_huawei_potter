@@ -27,8 +27,8 @@ fi
 
 set -e
 
-export DEVICE=anne
-export DEVICE_COMMON=hi6250-9-common
+export DEVICE=potter
+export DEVICE_COMMON=kirin710-9-common
 export VENDOR=huawei
 
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"

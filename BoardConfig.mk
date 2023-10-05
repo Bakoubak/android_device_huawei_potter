@@ -8,7 +8,7 @@
 DEVICE_PATH := device/huawei/potter
 
 ## Include common BoardConfig
-include device/huawei/hi6250-9-common/BoardConfigCommon.mk
+include device/huawei/kirin710-9-common/BoardConfigCommon.mk
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE     := 25165824 # mmcblk0p31 (24576*1024)

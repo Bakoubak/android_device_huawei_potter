@@ -284,9 +284,7 @@ odm/etc/camera/hwbeauty/s5kgd1sp_front/oz/hwbeauty_params.xml
 odm/etc/camera/hwbeauty/s5kgd1sp_front/rh/hwbeauty_params.xml
 odm/etc/camera/hwbeauty/s5kgd1sp_front/zdfz/hwbeauty_params.xml
 odm/etc/camera/hwbeauty/s5kgd1sp_front/zg/hwbeauty_params.xml
-odm/etc/camera/hwldc/default/hwldc_config.xml
 odm/etc/camera/hwldc/device.config
-odm/etc/camera/hwldc/imx371/hwldc_config.xml
 odm/etc/camera/hwldc/hi846_front/hwldc_config.xml
 odm/etc/camera/hwldc/imx371_front/hwldc_config.xml
 odm/etc/camera/hwldc/imx576_front/hwldc_config.xml
@@ -295,11 +293,6 @@ odm/etc/camera/hwldc/ov16885_front/hwldc_config.xml
 odm/etc/camera/hwldc/s5k3p8_front/hwldc_config.xml
 odm/etc/camera/hwldc/s5k4h7_front/hwldc_config.xml
 odm/etc/camera/hwldc/s5kgd1sp_front/hwldc_config.xml
-odm/etc/camera/hwscope/device.config
-odm/etc/camera/hwscope/imx498/hwsz.xml
-odm/etc/camera/hwscope/imx498/kernel
-odm/etc/camera/hwscope/ov16b10/hwsz.xml
-odm/etc/camera/hwscope/ov16b10/kernel
 odm/etc/camera/ippalgoconfig.xml
 odm/etc/camera/ispenhnc/ispenhncalgoconfig.xml
 odm/etc/camera/mempoolcfg.xml
@@ -311,7 +304,6 @@ odm/etc/camera/mmi7cm/imx582/mmi7cmConfig.xml
 odm/etc/camera/mmi7cm/ov13855/mmi7cmConfig.xml
 odm/etc/camera/mmi7cm/s5k3l6/mmi7cmConfig.xml
 odm/etc/camera/monitor_config.xml
-odm/etc/camera/multidenoise/default/multiframe.xml
 odm/etc/camera/multidenoise/device.config
 odm/etc/camera/multidenoise/hi846_front/multiframe.xml
 odm/etc/camera/multidenoise/hi1333/multiframe.xml
@@ -343,7 +335,7 @@ odm/etc/camera/smartae/device.config
 odm/etc/camera/smartae/hi846_front/SmartAE.xml
 odm/etc/camera/smartae/hi1333/SmartAE.xml
 odm/etc/camera/smartae/imx258/SmartAE.xml
-odm/etc/camera/smartae/imx371/SmartAE.xml
+odm/etc/camera/smartae/imx371_front/SmartAE.xml
 odm/etc/camera/smartae/imx576/SmartAE.xml
 odm/etc/camera/smartae/imx576_front/SmartAE.xml
 odm/etc/camera/smartae/imx582/SmartAE.xml
@@ -354,12 +346,11 @@ odm/etc/camera/smartae/s5k3l6/SmartAE.xml
 odm/etc/camera/smartae/s5k3p8_front/SmartAE.xml
 odm/etc/camera/smartae/s5k4h7_front/SmartAE.xml
 odm/etc/camera/smartae/s5kgd1sp_front/SmartAE.xml
-odm/etc/camera/tornado/default/TornadoI.ini
 odm/etc/camera/tornado/device.config
 odm/etc/camera/tornado/hi846_front/TornadoI.ini
 odm/etc/camera/tornado/hi1333/TornadoI.ini
 odm/etc/camera/tornado/imx258/TornadoI.ini
-odm/etc/camera/tornado/imx371/TornadoI.ini
+odm/etc/camera/tornado/imx371_front/TornadoI.ini
 odm/etc/camera/tornado/imx576/TornadoI.ini
 odm/etc/camera/tornado/imx576_front/TornadoI.ini
 odm/etc/camera/tornado/imx582/TornadoI.ini

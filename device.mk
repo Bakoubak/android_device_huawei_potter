@@ -8,7 +8,7 @@
 DEVICE_PATH := device/huawei/potter
 
 ## Inherit common device
-$(call inherit-product, device/huawei/hi6250-9-common/common.mk)
+$(call inherit-product, device/huawei/kirin710-9-common/common.mk)
 
 ## Inherit vendor blobs
 $(call inherit-product, vendor/huawei/potter/potter-vendor.mk)
