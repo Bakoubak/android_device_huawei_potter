@@ -10,10 +10,6 @@ DEVICE_PATH := device/huawei/potter
 ## Include common BoardConfig
 include device/huawei/kirin710-9-common/BoardConfigCommon.mk
 
-# Kernel
-TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/kernel
-TARGET_KERNEL_ARCH := arm64
-
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE     := 25165824 # mmcblk0p31 (24576*1024)
 BOARD_CACHEIMAGE_PARTITION_SIZE    := 134217728 # mmcblk0p44 (131072*1024)
